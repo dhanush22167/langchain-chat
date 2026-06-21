@@ -1,3 +1,4 @@
+[Live Huggingface App](https://huggingface.co/spaces/Dhanush22167/langchain-pdf-chat)
 # 💬 LangChain PDF Chat
 
 Upload any PDF or text file and ask questions about it. Powered by **LangChain + Groq (free) + FAISS**.
