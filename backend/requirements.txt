@@ -8,6 +8,8 @@ langchain-huggingface==0.0.3
 langchain-text-splitters==0.2.2
 langchain-core==0.2.10
 faiss-cpu
-sentence-transformers==3.0.1
+sentence-transformers==2.2.2
 pypdf==4.2.0
 python-dotenv==1.0.1
+torch==2.0.1+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
